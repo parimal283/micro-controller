@@ -1,0 +1,15 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 07/30/2021
+E4264FFA494BC73C1449C24CDBA06887 "signed 16 bit.asm" 
+0 1 0 120 255
+0 2 2 121 255
+0 3 4 122 255
+0 4 6 123 0
+0 5 8 124 0
+0 6 10 232
+0 7 11 42
+0 8 12 253
+0 9 13 233
+0 10 14 59
+0 11 15 254
